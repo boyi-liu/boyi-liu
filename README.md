@@ -1,4 +1,9 @@
 ### Hi there👋, this is Boyi Liu
 
-+ Boyi Liu is currently a second year Ph.D. student supervised by <a href="https://yongxintong.github.io/">Prof. Yongxin Tong</a> at Beihang University (BUAA), where he received his B.E. at 2023. 
-+ Boyi Liu is also a joint Ph.D. student at City University of Hong Kong (CityUHK), supervised by <a href='https://zhouzimu.github.io/'>Prof. Zimu Zhou</a>.
+Boyi Liu is currently a third year BUAA-CityUHK joint Ph.D. student. He is supervised by <a href="https://yongxintong.github.io/">Prof. Yongxin Tong</a> and <a href='https://zhouzimu.github.io/'>Prof. Zimu Zhou</a>. He received his B.E. from Beihang University (BUAA) at 2023. 
+
+Boyi Liu's research interest lies in:
+
++ Federated Learning
++ On-Device Machine Learning
++ Data-Centric AI
